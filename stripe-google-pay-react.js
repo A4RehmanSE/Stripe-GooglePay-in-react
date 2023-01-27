@@ -19,7 +19,7 @@ function App() {
             gateway: "stripe",
             "stripe:version": "2022-11-15",
             "stripe:publishableKey":
-              "pk_test_51L3g9hHg4Ph9coEEaxjVFrMxXNtKKoNXKhdRh6duO3jeGjmVqyJCeyUCMFXpxk2MXrLhXCTHNKkC222nCXmgdflK00CICToSL4"
+              "YOUR_STRIPE_PUBLIC_KEY"
           }
         }
       }
